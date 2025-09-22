@@ -1,0 +1,2 @@
+código,vulnerabilidade
+print(f'ok: {name}'),SQL Injection
